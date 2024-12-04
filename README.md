@@ -2,7 +2,7 @@
 <h3 align="center">A dedicated Data Science and AI professional from India</h3>
 
 <p align="left"> 
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Coding GIF" width="400" align="right"/>
+  <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" alt="Coding GIF" width="400" align="right"/>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhanshika6382&label=Profile%20views&color=0e75b6&style=flat" alt="singhanshika6382" /> </p>
